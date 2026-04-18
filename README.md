@@ -39,10 +39,10 @@ Understandable AI: It provides a visual map of its logic. You can see exactly wh
 Smart Timing: It automatically looks at the time of the transaction to catch scammers who operate while people are asleep.
 
 🛠️ The Tools I Used
+
 Python: The main language used to build the system.
 Scikit-Learn: The "brain" that provides the classification algorithm.
 Pandas: Used for organizing the transaction data.
-
 Matplotlib: Used to draw the visual logic maps.
 
 📈 Final Output
