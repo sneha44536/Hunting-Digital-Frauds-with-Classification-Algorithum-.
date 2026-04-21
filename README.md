@@ -25,7 +25,7 @@ Why this matters: It ensures the system never crashes when it sees "messy" real-
 
 2. Balancing the Scales (SMOTE)
 Since there are very few fraud examples compared to real ones, the computer can get "lazy" and assume everything is real. I use a technique called SMOTE to create synthetic examples of scams.
-         The Result: The computer gets enough practice looking at fraud patterns to become an expert at catching them.
+The Result: The computer gets enough practice looking at fraud patterns to become an expert at catching them.
 
 3. The Logic Map (Decision Trees)
 Instead of a "Black Box" where you don't know why a decision was made, this system uses a Decision Tree. It works like a smart flowchart:
