@@ -33,6 +33,8 @@ Instead of a "Black Box" where you don't know why a decision was made, this syst
        Step B: Is it happening at an odd hour (like 3 AM)?
        Step C: Is the location far from the customer's home?
 
+
+
 🌟 Key Project Highlights
 Built for India: The system understands local payment card types like RuPay and identifies risks in cities like Bangalore, Mumbai, and Surat.
 Understandable AI: It provides a visual map of its logic. You can see exactly why a transaction was flagged as "Fraud" instead of "Real."
