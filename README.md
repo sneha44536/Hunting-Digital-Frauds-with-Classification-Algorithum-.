@@ -13,7 +13,6 @@ In India, millions of digital transactions happen every second. While most are s
 💡 The Solution: safe-Shield
 This project is an intelligent system designed to protect Indian digital payments. It looks at transaction details—like the amount, the city, and the time of day—to decide if a payment is Real or Fraud.
 
-
 🚀 How the System Works (Simple 3-Step Process)
 1. The "Bulletproof" Cleaning Engine
 Real-world data is often messy or incomplete. Before the computer can learn, my code automatically:
